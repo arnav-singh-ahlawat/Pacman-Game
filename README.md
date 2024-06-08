@@ -1,8 +1,17 @@
 # Classic Pacman Game in Java
 
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/arnav-singh-ahlawat/Pacman-Game/assets/159664776/3358c772-f7dd-4bcc-9fd2-eb05f928a07d" alt="#GAME-MENU" style="width: 45%;">
+    <img src="https://github.com/arnav-singh-ahlawat/Pacman-Game/assets/159664776/bcb1a455-c731-4584-89cf-3eee1dda2103" alt="#GAMEPLAY" style="width: 45%;">
+</div>
+
 ## Overview:
 
 Welcome to the Classic Pacman Game recreated in Java, designed to deliver an authentic arcade experience right on your computer! Navigate through intricate mazes, outsmart intelligent ghost AI, and collect power-ups to achieve high scores in this iconic game.
+
+## Video Demo:
+
+https://github.com/arnav-singh-ahlawat/Pacman-Game/assets/159664776/9e02b320-6b66-4ac9-8d38-4792b953753f
 
 ## Features:
 
